@@ -13,7 +13,7 @@ function switchLanguage(lang) {
 
 document.addEventListener('DOMContentLoaded', () => {
     const lang = localStorage.getItem('preferredLanguage');
-    if (lang && ['en', 'fr', 'es'].includes(lang)) {
+    if (lang && ['en', 'fr', 'es'].includes(lang) && lang !== document.documentElement.lang) {
         switchLanguage(lang);
     }
 });
