@@ -5,7 +5,7 @@ function switchLanguage(lang) {
     document.querySelectorAll('.lang-btn').forEach(el => el.classList.remove('active'));
 
     document.getElementById('content-' + lang)?.classList.add('active');
-    document.querySelector(`[onclick="switchLanguage('${lang}')"]`)?.classList.add('active');
+    document.getElementById('lang-btn-' + lang)?.classList.add('active');
 
     localStorage.setItem('preferredLanguage', lang);
     document.documentElement.lang = lang;
