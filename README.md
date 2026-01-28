@@ -30,9 +30,7 @@ We gratefully acknowledge the authors of the audio assets used in CalmWave.
 ### Nature & Ambience
 - **Heavy Rain**: [Heavy Rain](https://freesound.org/s/243628/) by lebaston100 (License: Attribution 4.0)
 - **Rain on Glass**: [Rain on Windows, Interior, A.wav](https://freesound.org/s/346642/) by InspectorJ (License: Attribution 4.0)
-- **Thunder**:
-  - [THUNDER long rumbling - no Rain](https://freesound.org/s/367702/) by BlueDelta (License: CC0)
-  - [Heavy Thunder Strike - no Rain](https://freesound.org/s/446753/) by BlueDelta (License: CC0)
+- **Thunder**: [THUNDER long rumbling - no Rain](https://freesound.org/s/367702/) by BlueDelta (License: CC0)
 - **Strong Wind**: [Strong wind](https://freesound.org/s/660464/) by guillermochicasonido (License: Attribution 4.0)
 - **Waves**: [Ambience, Seaside Waves, Close, A.wav](https://freesound.org/s/400632/) by InspectorJ (License: Attribution 4.0)
 - **Stream**: [Stream, Water, C.wav](https://freesound.org/s/339324/) by InspectorJ (License: Attribution 4.0)
@@ -51,6 +49,7 @@ We gratefully acknowledge the authors of the audio assets used in CalmWave.
 ### Space Sonification
 - **Perseus Cluster**: Sonification by NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida) - [Source](https://chandra.si.edu/sound/perseus.html)
 - **Galactic Center**: Sonification by NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida) - [Source](https://chandra.si.edu/sound/gcenter.html)
+- **Crab Nebula**: Sonification by NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida) - [Source](https://chandra.si.edu/sound/crab.html)
 
 ## 📄 License
 
